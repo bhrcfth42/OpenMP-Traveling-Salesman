@@ -1,0 +1,3 @@
+# OpenMP Traveling Salesman - OpenMP Gezgin Satıcı
+
+Bu soruda gezgin satıcı problemini paralel olarak çözen openmp kodunu yazmanız beklenmektedir. Gezgin satıcı probleminde aralarındaki mesafeler bilinen n adet şehrin her birine yalnız bir kez uğranarak başlangıç noktasına geri dönülmesi esnasında kat edilen toplam mesafenin en kısa olduğu turun bulunması olarak tanımlanır. Şehirler arası mesafeler “mesafe.txt” dosyasında verilmiştir. Problemin paralel olarak çözülmesi için thread’ler arasında görev paylaşımı yapmanız beklenmektedir. Elde edilen minimum mesafe ve gidilecek şehir sıralaması ekrana yazdırılmalıdır.
